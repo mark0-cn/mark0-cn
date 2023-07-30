@@ -11,7 +11,7 @@
 <!-- - ⚡ Fun fact ... **Anime**❤ -->
 - 🌱 I’m currently learning ... **Fuzz**
 - 📫 How to reach me **h0ng1iang524@gmail.com**
-- 
+- 📨 Or reach me **757410129@qq.com**
 
 <h4>Programming Languages: </h4>
 <p align="left">
@@ -19,6 +19,7 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
+
 
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
@@ -77,6 +78,9 @@ JSON                     34 mins             ░░░░░░░░░░░�
  Last Updated on 30/07/2023 12:01:53 UTC
 <!--END_SECTION:waka-->
 
+<h4>Activity status in the past month</h4>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mark0-cn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **mark0-cn/mark0-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
