@@ -1,4 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm mark0</h1>
+
+<h3 align="center">A security development engineer from China</h3>
+<h3 align="center">Bachelor in Cyberspace Security Major (To be graduated in 2023)</h3>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<!-- - 🔭 I’m currently working on **vKarma Webapp** -->
+<!-- - 💬 Ask me about ... **Web Develpoment** -->
+<!-- - 😄 Employement ... **Open for intern opportunities** -->
+<!-- - ⚡ Fun fact ... **Anime**❤ -->
+- 🌱 I’m currently learning ... **Fuzz**
+- 📫 How to reach me **h0ng1iang524@gmail.com**
+- 
+
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+</p>
+
+<img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%201%20min-blue)
@@ -54,6 +76,7 @@ JSON                     34 mins             ░░░░░░░░░░░�
 
  Last Updated on 30/07/2023 12:01:53 UTC
 <!--END_SECTION:waka-->
+
 
 <!--
 **mark0-cn/mark0-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
