@@ -10,8 +10,8 @@
 <!-- - 😄 Employement ... **Open for intern opportunities** -->
 <!-- - ⚡ Fun fact ... **Anime**❤ -->
 - 🌱 I’m currently learning ... **Fuzz**
-- 📫 How to reach me **h0ng1iang524@gmail.com**
-- 📨 Or reach me **757410129@qq.com**
+- 📫 How to reach me **757410129@qq.com**
+<!-- - 📨 Or reach me **757410129@qq.com** -->
 
 <h4>Programming Languages: </h4>
 <p align="left">
