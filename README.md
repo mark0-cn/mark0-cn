@@ -24,17 +24,17 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 32.1 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2023
+> 🏆 176 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -65,15 +65,15 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.19 % 
-C                        6 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Embedded Ragel           4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Makefile                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Rust                     8 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
+C                        4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Embedded Ragel           4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Makefile                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 
- Last Updated on 31/08/2023 18:40:13 UTC
+ Last Updated on 01/09/2023 18:40:32 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
