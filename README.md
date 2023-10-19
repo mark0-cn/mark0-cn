@@ -24,7 +24,7 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C324%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,15 +65,15 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        5 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-Python                   2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Makefile                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Rust                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+C                        6 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.60 % 
+Python                   4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Makefile                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Rust                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 
 
- Last Updated on 18/10/2023 18:41:52 UTC
+ Last Updated on 19/10/2023 18:41:22 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
