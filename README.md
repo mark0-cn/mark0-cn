@@ -24,11 +24,13 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,15 +65,15 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        17 hrs 34 mins      ████████████████░░░░░░░░░   62.57 % 
-Rust                     6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Makefile                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Objective-C              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+C                        18 hrs 19 mins      ████████████████░░░░░░░░░   63.67 % 
+Rust                     7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Makefile                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
- Last Updated on 16/01/2024 18:41:27 UTC
+ Last Updated on 17/01/2024 18:42:00 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
