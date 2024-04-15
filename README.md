@@ -24,6 +24,8 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2030%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 34.4 kB Used in GitHub's Storage 
@@ -69,7 +71,7 @@ Other                    14 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/04/2024 22:59:15 UTC
+ Last Updated on 15/04/2024 18:40:48 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
