@@ -24,11 +24,13 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C434%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,15 +65,15 @@ Sunday                   74 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      22 hrs 1 min        ██████████████░░░░░░░░░░░   56.04 % 
-JSON                     11 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-Rust                     3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+C++                      22 hrs 11 mins      ███████████████░░░░░░░░░░   61.01 % 
+JSON                     11 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 
- Last Updated on 11/08/2024 18:42:40 UTC
+ Last Updated on 12/08/2024 18:44:27 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
