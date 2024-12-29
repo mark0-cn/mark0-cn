@@ -30,8 +30,6 @@
 
 > 📦 35.5 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -73,7 +71,7 @@ JSON                     43 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/12/2024 18:42:52 UTC
+ Last Updated on 29/12/2024 18:42:29 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
