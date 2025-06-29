@@ -30,8 +30,6 @@
 
 > 📦 35.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -73,7 +71,7 @@ C                        19 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/06/2025 18:49:56 UTC
+ Last Updated on 29/06/2025 18:49:05 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
