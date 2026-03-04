@@ -24,7 +24,7 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C009%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C010%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -38,42 +38,8 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                143 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-🌃 Evening                389 commits         ████████████████░░░░░░░░░   63.98 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Wednesday                80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Saturday                 143 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Rust                     4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.99 % 
-Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-C++                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-C                        1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-```
-
-
- Last Updated on 03/03/2026 19:25:49 UTC
+ Last Updated on 04/03/2026 19:23:17 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
