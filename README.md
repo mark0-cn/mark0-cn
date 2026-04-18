@@ -24,22 +24,54 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C033%20hrs%2011%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 37.0 kB Used in GitHub's Storage 
+> 📦 37.2 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 17/04/2026 19:54:29 UTC
+```text
+🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+🌆 Daytime                149 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌃 Evening                417 commits         ████████████████░░░░░░░░░   64.45 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Tuesday                  106 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Wednesday                80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Saturday                 154 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Rust                     3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JSON                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Text                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+```
+
+
+ Last Updated on 18/04/2026 19:39:09 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
