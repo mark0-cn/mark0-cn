@@ -26,56 +26,20 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C104%20hrs%2016%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 36.0 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-🌆 Daytime                112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-🌃 Evening                346 commits         ██████████████████░░░░░░░   70.04 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Tuesday                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-Wednesday                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-JSON                     2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-C++                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Python                   1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-```
-
-
- Last Updated on 16/05/2026 19:48:52 UTC
+ Last Updated on 17/05/2026 19:54:08 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
