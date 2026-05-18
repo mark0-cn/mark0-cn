@@ -30,7 +30,7 @@
 
 > 📦 36.0 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2026
+> 🏆 35 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,8 +38,42 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 17/05/2026 19:54:08 UTC
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+🌆 Daytime                112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌃 Evening                348 commits         ██████████████████░░░░░░░   70.16 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Wednesday                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+JSON                     2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+C++                      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+```
+
+
+ Last Updated on 18/05/2026 20:25:36 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
