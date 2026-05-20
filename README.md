@@ -40,8 +40,42 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 19/05/2026 20:24:27 UTC
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+🌆 Daytime                112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌃 Evening                348 commits         ██████████████████░░░░░░░   70.16 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Wednesday                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.83 % 
+Python                   1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Image (svg)              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Rust                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+```
+
+
+ Last Updated on 20/05/2026 20:45:32 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
