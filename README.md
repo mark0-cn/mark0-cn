@@ -26,6 +26,8 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C117%20hrs%2056%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 36.0 kB Used in GitHub's Storage 
@@ -38,8 +40,38 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 23/05/2026 19:53:24 UTC
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+🌆 Daytime                112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌃 Evening                353 commits         ██████████████████░░░░░░░   70.46 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Tuesday                  133 commits         ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Wednesday                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 24/05/2026 19:57:13 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
