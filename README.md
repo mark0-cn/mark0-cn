@@ -26,6 +26,8 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C118%20hrs-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 36.3 kB Used in GitHub's Storage 
@@ -69,7 +71,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/06/2026 20:28:10 UTC
+ Last Updated on 20/06/2026 20:15:59 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
