@@ -26,6 +26,8 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C147%20hrs%2028%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 36.7 kB Used in GitHub's Storage 
@@ -38,8 +40,42 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 20:16:17 UTC
+```text
+🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌆 Daytime                113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+🌃 Evening                380 commits         ████████████████░░░░░░░░░   64.52 % 
+🌙 Night                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Tuesday                  159 commits         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Wednesday                129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    39 mins             █████████████░░░░░░░░░░░░   50.36 % 
+Rust                     27 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
+CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
+
+
+ Last Updated on 25/07/2026 20:05:37 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
