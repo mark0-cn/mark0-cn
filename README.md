@@ -26,6 +26,10 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C017%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2032%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 36.7 kB Used in GitHub's Storage 
@@ -41,21 +45,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-🌆 Daytime                113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-🌃 Evening                382 commits         ████████████████░░░░░░░░░   64.31 % 
-🌙 Night                  60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+🌆 Daytime                113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+🌃 Evening                384 commits         ████████████████░░░░░░░░░   64.32 % 
+🌙 Night                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Wednesday                132 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Tuesday                  163 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Wednesday                133 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 ```
 
 
@@ -91,7 +95,7 @@ GPT                      370 lines           ███████████�
 ```
 
 
- Last Updated on 28/07/2026 20:24:10 UTC
+ Last Updated on 29/07/2026 20:14:39 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
