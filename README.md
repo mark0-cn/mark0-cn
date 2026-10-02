@@ -13,6 +13,7 @@
 - 📫 How to reach me **757410129@qq.com**
 - 📝 Notion: [Liang’s Notes](https://www.notion.so/Liang-2fde1810ba1780be8852c1ce6174154e)
 - 🐦 X Blog: [@mark0_666666](https://x.com/mark0_666666)
+- 💼 [LinkedIn](https://www.linkedin.com/in/liang-hong-51a8492a0/)
 <!-- - 📨 Or reach me **757410129@qq.com** -->
 
 <h4>Programming Languages: </h4>
