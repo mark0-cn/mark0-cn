@@ -27,9 +27,9 @@
 <img width="55%" align="right" alt="mark0-cn's github stats" src="https://github-readme-stats.vercel.app/api?username=mark0-cn&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C042%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C048%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,18 +46,18 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                194 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-🌆 Daytime                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+🌞 Morning                195 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+🌆 Daytime                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 🌃 Evening                456 commits         ███████████░░░░░░░░░░░░░░   45.33 % 
-🌙 Night                  214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌙 Night                  218 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Tuesday                  380 commits         █████████░░░░░░░░░░░░░░░░   37.77 % 
-Wednesday                209 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Tuesday                  381 commits         █████████░░░░░░░░░░░░░░░░   37.87 % 
+Wednesday                207 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 Friday                   53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
@@ -70,37 +70,37 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     15 hrs 14 mins      ████████████░░░░░░░░░░░░░   47.29 % 
-Python                   9 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Other                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Rust                     13 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+Python                   9 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Other                    3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 23 mins (72.58%)
+⏱ AI Coding Time: 23 hrs 22 mins (80.26%)
 
-✍️ 12,100 lines written by AI, 3,006 lines written by hand (80.1% AI-written)
+✍️ 13,554 lines written by AI, 1,736 lines written by hand (88.65% AI-written)
 
-🔤 11,931,307 Input Tokens, 2,230,544 Output Tokens
+🔤 9,158,714 Input Tokens, 1,865,291 Output Tokens
 
-💵 $80.55 Estimated AI Cost This Week
+💵 $67.55 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 130 AI Prompts
+🧠 31 AI Sessions, 138 AI Prompts
 
-GPT                      12,280 lines        █████████████████████████   100.00 % 
+GPT                      13,734 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.1% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
+🤖 AI-Driven — 88.65% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.7% of changed lines were hand-edited
+🚀 High AI Trust — 14.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 22:55:43 UTC
+ Last Updated on 28/10/2026 23:09:49 UTC
 <!--END_SECTION:waka-->
 
 <h4>Activity status in the past month</h4>
